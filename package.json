@@ -3,6 +3,7 @@
   "version": "5.0.2",
   "description": "Liquid template engine by pure JavaScript: compatible to shopify, easy to extend.",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "lint": "eslint .",
     "test": "mocha --recursive",
